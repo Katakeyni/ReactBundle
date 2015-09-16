@@ -1,0 +1,3 @@
+katakeyni_react_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KatakeyniReactBundle:Default:index }

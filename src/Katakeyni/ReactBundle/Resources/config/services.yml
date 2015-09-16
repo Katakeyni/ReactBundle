@@ -1,0 +1,4 @@
+services:
+#    katakeyni_react.example:
+#        class: Katakeyni\ReactBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
